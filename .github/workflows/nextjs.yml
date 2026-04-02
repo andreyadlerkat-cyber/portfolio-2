@@ -80,13 +80,3 @@ name: Upload artifact
 name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v5
-﻿
-暗闇の中を見て、彼女はあなたを見ています
-.AshuraKei
-.darknesshide
-Nothing is forever
- 
- 
- 
-
- 
